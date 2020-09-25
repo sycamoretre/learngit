@@ -4,3 +4,4 @@ add
 read 
 line two
 branch
+switch
