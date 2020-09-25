@@ -5,4 +5,4 @@ read
 line two
 branch
 switch
-a & b
+a and b
