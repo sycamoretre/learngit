@@ -6,3 +6,4 @@ line two
 branch
 switch
 a and b
+no fast forward
